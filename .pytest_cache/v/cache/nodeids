@@ -1,0 +1,7 @@
+[
+  "tests/test_estimator.py::test_known_model_math",
+  "tests/test_estimator.py::test_list_models_sorted",
+  "tests/test_estimator.py::test_negative_tokens",
+  "tests/test_estimator.py::test_unknown_model",
+  "tests/test_estimator.py::test_zero_tokens"
+]
